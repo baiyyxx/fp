@@ -4,6 +4,15 @@
   "require": {
     "appbolaget/dd": "^1.1"
   },
+  "license": "MIT",
+  "keywords": [
+    "dd",
+    "dump",
+    "baiyang",
+    "fp",
+    "bd",
+    "bdd"
+  ],
   "authors": [
     {
       "name": "biayang",
