@@ -1,0 +1,25 @@
+{
+  "name": "baiyang/fp",
+  "description": "baiyang's php quick print extension Library",
+  "require": {
+    "appbolaget/dd": "^1.1"
+  },
+  "authors": [
+    {
+      "name": "biayang",
+      "email": "380357892@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+      "files": [
+        "tools.php"
+      ]
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}

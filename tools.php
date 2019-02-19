@@ -6,7 +6,7 @@
  * Time: 19:58
  */
 
-require_once './vendor/autoload.php';
+//require_once './vendor/autoload.php';
 if (!function_exists('fp')){
     /**
      * 自定义打印输出
